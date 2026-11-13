@@ -1,5 +1,6 @@
 {
   "name": "sota2",
+  "displayName": "SOTA2",
   "version": "0.1.0",
   "description": "Find AI companies for a business workflow and compare products, integrations, use cases and reported compliance with source-linked evidence.",
   "author": {
@@ -7,6 +8,10 @@
     "url": "https://www.sota2.com"
   },
   "homepage": "https://www.sota2.com/with-ai",
+  "documentationUrl": "https://www.sota2.com/mcp-guide.txt",
+  "privacyPolicyUrl": "https://www.sota2.com/mcp-privacy",
+  "supportUrl": "https://www.sota2.com/with-ai",
+  "termsOfServiceUrl": "https://www.sota2.com/mcp-terms",
   "license": "MIT",
   "repository": "https://github.com/pageonelab/sota2-claude-plugin"
 }
